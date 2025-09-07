@@ -145,7 +145,7 @@ FROM top_month
 WHERE rn % 12 = 1;
 ```
 
-8. **Write a SQL query to find the top 5 customers based on the highest total sales **:
+8. **Write a SQL query to find the top 5 customers based on the highest total sales.**:
 ```sql
 
 select
